@@ -10,7 +10,7 @@
 ---
 
 🔭 **Currently working on** — Building fintech & banking systems at a private bank in Indonesia  
-🌱 **Side projects** — DompetKu, personal finance app (Flutter + Node.js + Supabase)  
+🌱 **Side projects** — expense-tracker, personal finance app (Flutter + Node.js + Supabase)  
 💬 **Ask me about** — Spring Boot, Next.js, banking system architecture  
 📫 **Reach me** — [github.com/hartcalvin](https://github.com/hartcalvin)
 
