@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Calvin Hartono 👋
 
-<!--
-**hartcalvin/hartcalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer specializing in fintech & banking systems**
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/Java-Spring_Boot-informational?style=flat&color=6366f1)
+![React](https://img.shields.io/badge/React-Next.js-informational?style=flat&color=6366f1)
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&color=6366f1)
+![Node.js](https://img.shields.io/badge/Node.js-Supabase-informational?style=flat&color=6366f1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔭 **Currently working on** — Building fintech & banking systems at a private bank in Indonesia  
+🌱 **Side projects** — DompetKu, personal finance app (Flutter + Node.js + Supabase)  
+💬 **Ask me about** — Spring Boot, Next.js, banking system architecture  
+📫 **Reach me** — [github.com/hartcalvin](https://github.com/hartcalvin)
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend**  
+Java · Spring Boot · Node.js · REST API · SQL Server · PostgreSQL
+
+**Frontend**  
+React · Next.js · Tailwind CSS
+
+**Mobile**  
+Flutter · Dart
+
+**Database**  
+SQL Server (MSSQL) · PostgreSQL · Supabase
+
+**Tools & Cloud**  
+Supabase · Railway · Vercel · Git
+
+---
+
+📍 Jakarta, Indonesia &nbsp;|&nbsp; Open to fintech, banking & remote opportunities
