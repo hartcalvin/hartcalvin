@@ -18,16 +18,16 @@
 
 ### 🛠️ Tech Stack
 
-**Backend**  
-Java · Spring Boot · Node.js · REST API · SQL Server · PostgreSQL
+**Backend**
+Java · Spring Boot · Node.js · REST API
 
-**Frontend**  
+**Frontend**
 React · Next.js · Tailwind CSS
 
-**Mobile**  
+**Mobile**
 Flutter · Dart
 
-**Database**  
+**Database**
 SQL Server (MSSQL) · PostgreSQL · Supabase
 
 **Tools & Cloud**  
